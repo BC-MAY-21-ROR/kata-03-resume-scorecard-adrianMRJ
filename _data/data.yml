@@ -53,18 +53,18 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a person that's finishing a carreer about informatics, I like games, love technology and love the area of IoT.
+    I am a profesional with Bachelor's Degree on Computer Informatics, I like games, love technology and love the area of IoT.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Informatics Engineering
     university: Instituto Tecnologico de Colima
-    time: 2015 - current
+    time: 2015 - 2021
     details: |
 
   - degree: Ruby on Rails Web Developer
     university: BrightCoders Academy
-    time: 2021 - current
+    time: 2021 Aug - 2021 Dec
     details: |
       Supervised deep learning for web developing
 
