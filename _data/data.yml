@@ -74,9 +74,10 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Junior Programming Consultant
-    time: November 2021
+    time: 2021 - Current
     company: Objectosoft
-    details: |
+    details: | 
+      Junior Programming Consultant at Objectsoft in Database SQL Server
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
