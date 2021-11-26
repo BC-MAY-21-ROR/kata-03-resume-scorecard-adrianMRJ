@@ -15,7 +15,7 @@ sidebar:
   email: adrian.mrj.97@gmail.com
   phone: 312-103-98-11
   website: # No agregar http://
-  linkedin: Adrian Robles Jiménez
+  linkedin: https://www.linkedin.com/in/adrian-robles-jim%C3%A9nez-b7344a220/
   github: adrianMRJ
   gitlab: 
   bitbucket:
@@ -73,9 +73,9 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: N/A
-    time: N/A
-    company: N/A
+  - role: Junior Programming Consultant
+    time: November 2021
+    company: Objectosoft
     details: |
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
